@@ -1,0 +1,4 @@
+[submodule "mydocker"]
+	path = mydocker
+	url = https://github.com/xianlubird/mydocker.git
+	branch = master
